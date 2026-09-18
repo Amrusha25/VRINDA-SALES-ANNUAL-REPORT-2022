@@ -12,5 +12,7 @@
 - Understand customer purchasing patterns through data visualization.
 
 - ## Dataset used
+
+- <a href="https://github.com/Amrusha25/VRINDA-SALES-ANNUAL-REPORT-2022/blob/main/VRINDA%20STORE%20ANNUAL%20REPORT%202022.xlsx">Dataset</a>
 - 
 
