@@ -33,7 +33,7 @@
 
 - Analyze overall customer purchasing patterns.
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/Amrusha25/VRINDA-SALES-ANNUAL-REPORT-2022/blob/main/VRINDHA%20STORE%20ANNUAL%20REPORT%202022.png">View Dashboard</a>
 
 
 ## Project Insights
