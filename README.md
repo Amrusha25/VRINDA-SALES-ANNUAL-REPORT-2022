@@ -1,2 +1,16 @@
-# VRINDA-SALES-ANNUAL-REPORT-2022
-Vrinda Store Annual Report 2022 is an Excel-based sales dashboard that analyzes monthly sales, customer demographics, top-performing states, order status, and sales channels using KPIs, pivot tables, and charts. It provides clear insights into sales performance and customer purchasing patterns.
+# Vrinda-Store-Annual-Report-2022(Interactive Dashboard created using MS Excel)
+
+## PROJECT OBJECTIVES
+
+- Analyze Vrinda Store's annual sales performance.
+- Monitor key sales and order KPIs.
+- Compare sales between men and women customers.
+- Analyze monthly sales and order trends.
+- Identify the top-performing states based on sales.
+- Analyze order status and customer segments.
+- Identify the most popular sales channels.
+- Understand customer purchasing patterns through data visualization.
+
+- ## Dataset used
+- 
+
